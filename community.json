@@ -3150,6 +3150,21 @@
         "w/"
       ]
     },
+        {
+      "project_name": "shoal",
+      "project_url": "https://github.com/giovannilami/shoal",
+      "author": "giovannilami",
+      "description": "Four-track generative sequencer with optional Grid, MIDI, crow, and n.b. output",
+      "discussion_url": "https://llllllll.co/t/shoal-generative-melodies-for-norns/75630",
+      "documentation_url": "https://github.com/giovannilami/shoal/blob/main/docs/DETAILED_GUIDE.md",
+      "tags": [
+        "generative",
+        "sequencer",
+        "grid",
+        "midi",
+        "crow"
+      ]
+    },
     {
       "project_name": "showers",
       "project_url": "https://github.com/justmat/showers",
